@@ -1,0 +1,25 @@
+ ===============================================================================================================
+| Berikut adalah program yang mendata kasus positif di suatu daerah berdasarkan gejala yang dimasukkan (1 - 10).
+| Jika gejala yang diinput totalnya lebih besar daripada 25, penduduk dinyatakan positif.
+| Total penduduk yang positif pada suatu daerah dibagi dengan total penduduknya jika lebih besar dan sama dengan 0.51,
+| daerah dinyatakan zona merah.
+ ===============================================================================================================
+| Kasus korona yang berlangsung selama 1 hari mempunyai data sebagai berikut
+ ==============================================================================
+|
+| Nama Daerah    : a [Hijau]
+| Jumlah Positif : 0
+| Daftar Warga   : (1 [-])
+|
+ ==============================================================================
+
+
+ ==============================================================================
+|
+| Nama Daerah    : v [Hijau]
+| Jumlah Positif : 0
+| Daftar Warga   : (1 [-])
+|
+ ==============================================================================
+
+
